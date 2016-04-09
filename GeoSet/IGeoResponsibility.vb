@@ -1,0 +1,4 @@
+﻿
+Interface IGeoResponsibility
+
+End Interface

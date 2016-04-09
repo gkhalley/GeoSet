@@ -1,0 +1,4 @@
+﻿
+Interface IGeoGeometry
+
+End Interface
