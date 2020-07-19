@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Glen\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Glen\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_GeoSet.-1154631949.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Glen\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Glen\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Glen\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Glen\RiderProjects\GeoSet" t="IncludeFlat">
+      <e p="EngineeringOffice.SharedDatabase" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAL" t="Include">
+          <e p="EngineeringOfficeConfiguration.vb" t="Include" />
+          <e p="EngineeringOfficeContext.vb" t="Include" />
+          <e p="EngineeringOfficeInterceptorLogging.vb" t="Include" />
+          <e p="EngineeringOfficeTransietErrors.vb" t="Include" />
+        </e>
+        <e p="EngineeringOffice.vbproj" t="IncludeRecursive" />
+        <e p="Features" t="Include">
+          <e p="Pole" t="Include">
+            <e p="Pole.vb" t="Include" />
+          </e>
+        </e>
+        <e p="Logging" t="Include">
+          <e p="ILogger.vb" t="Include" />
+          <e p="Logging.vb" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Address.vb" t="Include" />
+          <e p="Adjacent.vb" t="Include" />
+          <e p="Cable.vb" t="Include" />
+          <e p="CableTemplate.vb" t="Include" />
+          <e p="Company.vb" t="Include" />
+          <e p="Component.vb" t="Include" />
+          <e p="Edge.vb" t="Include" />
+          <e p="Elevation.vb" t="Include" />
+          <e p="Fastener.vb" t="Include" />
+          <e p="FaultInterrupter.vb" t="Include" />
+          <e p="Location.vb" t="Include" />
+          <e p="MapSet.vb" t="Include" />
+          <e p="Office.vb" t="Include" />
+          <e p="Person.vb" t="Include" />
+          <e p="PointGeography.vb" t="Include" />
+          <e p="Pole.vb" t="Include" />
+          <e p="PushPin.vb" t="Include" />
+          <e p="Skill.vb" t="Include" />
+          <e p="UpdatedCrewEvent.vb" t="Include" />
+          <e p="ValueObjects" t="Include">
+            <e p="AppointmentStartEnd.vb" t="Include" />
+            <e p="Load15.vb" t="Include" />
+            <e p="PoleClass.vb" t="Include" />
+            <e p="PoleHole.vb" t="Include" />
+          </e>
+          <e p="Vertex.vb" t="Include" />
+          <e p="WorkArea.vb" t="Include" />
+        </e>
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Spatial.xslt" t="Include" />
+      </e>
+      <e p="FieldNotes" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Application.xaml" t="Include" />
+        <e p="Application.xaml.vb" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FieldNotes.vbproj" t="IncludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.vb" t="Include" />
+        <e p="My Project" t="Include">
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="MyExtensions" t="Include">
+            <e p="MyWpfExtension.vb" t="Include" />
+          </e>
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="Application.g.vb" t="Include" />
+            <e p="MainWindow.g.vb" t="Include" />
+          </e>
+        </e>
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="GeoSet.sln" t="IncludeFlat" />
+      <e p="OutdoorWork.Core" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.vb" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="ICrew.vb" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Events" t="Include" />
+          <e p="ValueObjects" t="Include" />
+          <e p="WorkAggregate" t="Include">
+            <e p="WorkArea.vb" t="Include" />
+          </e>
+        </e>
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Services" t="Include" />
+        <e p="Work.Core.vbproj" t="IncludeRecursive" />
+      </e>
+      <e p="OutdoorWork.Data" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.vb" t="Include" />
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Repositories" t="Include">
+          <e p="WorkContext.vb" t="Include" />
+        </e>
+        <e p="Work.Data.vbproj" t="IncludeRecursive" />
+      </e>
+      <e p="OutdoorWork.UnitTests" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Clearance.vb" t="Include" />
+        <e p="LineCrewSupervisorShould.vb" t="Include" />
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Work.UnitTests.vbproj" t="IncludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="xunit.runner.visualstudio.2.4.2\build\net452\xunit.abstractions.dll" t="Include" />
+        <e p="xunit.runner.visualstudio.2.4.2\build\net452\xunit.runner.reporters.net452.dll" t="Include" />
+        <e p="xunit.runner.visualstudio.2.4.2\build\net452\xunit.runner.utility.net452.dll" t="Include" />
+        <e p="xunit.runner.visualstudio.2.4.2\build\net452\xunit.runner.visualstudio.testadapter.dll" t="Include" />
+      </e>
+      <e p="SharedDatabaseManagementTools" t="Include" />
+      <e p="SharedDatabaseTests" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="AsyncQueryTests.vb" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CrewShould.vb" t="Include" />
+        <e p="EngineeringOfficeTests.vbproj" t="IncludeRecursive" />
+        <e p="EngineerOfficeService.vb" t="Include" />
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OfficesShould.vb" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="PersonShould.vb" t="Include" />
+        <e p="QueryTests.vb" t="Include" />
+        <e p="TestDbAsyncQueryProvider.vb" t="Include" />
+        <e p="TestingNonQuery.vb" t="Include" />
+      </e>
+      <e p="SharedKernel" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DateTimeRange.vb" t="Include" />
+        <e p="DomainEvents.vb" t="Include" />
+        <e p="Entity.vb" t="Include" />
+        <e p="Enums" t="Include">
+          <e p="SupportStructure.vb" t="Include" />
+        </e>
+        <e p="Guard.vb" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IDomainEvent.vb" t="Include" />
+          <e p="IEntity.vb" t="Include" />
+          <e p="IHandle.vb" t="Include" />
+        </e>
+        <e p="ManageOps.SharedKernel.vbproj" t="IncludeRecursive" />
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="ValueObject.vb" t="Include" />
+      </e>
+      <e p="Work" t="Include">
+        <e p="Infrastructure" t="Include">
+          <e p="Interfaces" t="Include" />
+          <e p="Migrations" t="Include" />
+          <e p="Models" t="Include" />
+          <e p="Repositories" t="Include" />
+        </e>
+      </e>
+      <e p="WorkContext.vb" t="Include" />
+    </e>
+  </component>
+</project>
